@@ -18,7 +18,10 @@ h2 {
     margin-top: 0;
     margin-bottom: 20px;
 }
+.container{
+     margin-top: 10%;
 
+}
 button {
     border: none;
     padding-top: 10px;
